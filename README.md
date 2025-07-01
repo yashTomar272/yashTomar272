@@ -1,4 +1,4 @@
-- 👋 Hi, I’m yash tomar
+- 👋 Hi, I’m yash kumar
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning backend devlopment
 - 💞️ I’m looking to collaborate on ...
