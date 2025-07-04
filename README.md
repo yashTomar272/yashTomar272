@@ -1,16 +1,20 @@
+
+
+
+
 <h1 align="center">Hi 👋, I'm YASH KUMAR</h1>
 <h3 align="center">I am a passionate Full Stack Developer who focuses on writing clean and user-friendly applications.</h3>
-
 <img alt="codind" width="400" align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashtomar272&label=Profile%20views&color=0e75b6&style=flat" alt="yashtomar272" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ten-blush-46.vercel.app/](https://portfolio-ten-blush-46.vercel.app/)
+- 💬 Ask me about my coding Experience.🔭 I’m currently student at Krishna group of institude & IT [MY GITHUB](https://github.com/yashTomar272)
 
-- 💬 Ask me about my coding Experience. You can see the **https://github.com/yashTomar272**
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://portfolio-ten-blush-46.vercel.app/)
+
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1O8VfGf2mmkqBx-JPH8DImWQO2WQFNq2I/view?usp=drive_link)
 
 - 📫 How to reach me **tomarji272@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1O8VfGf2mmkqBx-JPH8DImWQO2WQFNq2I/view?usp=drive_link](https://drive.google.com/file/d/1O8VfGf2mmkqBx-JPH8DImWQO2WQFNq2I/view?usp=drive_link)
+- 🤝 I’m looking for work on Full Stack Web Developer [https://drive.google.com/file/d/1O8VfGf2mmkqBx-JPH8DImWQO2WQFNq2I/view?usp=drive_link](https://drive.google.com/file/d/1O8VfGf2mmkqBx-JPH8DImWQO2WQFNq2I/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
