@@ -3,7 +3,7 @@
 
 
 
-
+<h1 align="center">Hi 👋, I'm YASH KUMAR</h1>
 <h3 align="center">I am a passionate Full Stack Developer who focuses on writing clean and user-friendly applications.</h3>
 <img alt="codind" width="400" align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
