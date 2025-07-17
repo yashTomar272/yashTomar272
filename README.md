@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [PORTFOLIO](https://portfolio-ten-blush-46.vercel.app/)
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1O8VfGf2mmkqBx-JPH8DImWQO2WQFNq2I/view?usp=drive_link)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1Zxu6CsVgpl5b1jKyWC10vfYBsYq_C3Wp/view?usp=drive_link)
 
 - 📫 How to reach me **tomarji272@gmail.com**
 
